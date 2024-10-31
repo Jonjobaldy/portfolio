@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background-color: blue;
+    color: aliceblue;
+    transition: background-color 0.5s ease;
+}
+
+button {
+    font-size: 40px;
+    padding: 5px 20px;
+
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-evenly;
+}
